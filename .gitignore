@@ -1,3 +1,7 @@
 .cph
 .vscode
 *.bin
+*.in
+*.out
+day10B
+*.dSYM/
